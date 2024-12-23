@@ -6,7 +6,7 @@ import os
 
 
 # api key
-GROQ_API_KEY = os.getenv("GORQ_API_KEY")
+GROQ_API_KEY = "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"
 
 st.title("🍲 Recipe generator")
 st.subheader("Provide your ingredients list and get a recipe")
